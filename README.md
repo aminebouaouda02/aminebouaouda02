@@ -56,10 +56,6 @@ My personal portfolio website, built with Next.js and TypeScript.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminebouaouda02&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aminebouaouda02&theme=radical" alt="GitHub trophies" />
-</p>
-
 ---
 
 *Student Developer Pack member — ENSAM Casablanca (Université Hassan II)*
